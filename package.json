@@ -34,7 +34,7 @@
     "eslint": "^4.19",
     "pretender": "^1.6",
     "prettier": "1.14.3",
-    "puppeteer": "1.4",
+    "puppeteer": "1.13",
     "qunit": "2.6",
     "route-recognizer": "^0.3.3",
     "sinon": "^6.3.5"
